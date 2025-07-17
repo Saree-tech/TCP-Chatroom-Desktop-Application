@@ -116,9 +116,3 @@ The primary objectives of the project are:
 The **GUI-Based Chat Room** project demonstrates how Python can be used for real-time communication by integrating **networking** and **GUI development**. This serves as a great starting point for building more advanced chat applications.
 
 ---
-
-Let me know if you’d like:
-
-* 💻 The full **Python source code** (server and client)
-* 🖼️ Sample screenshots
-* 📁 README with installation & usage steps
